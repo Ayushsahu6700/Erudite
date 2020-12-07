@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757324206889",
+    "firebase_url": "https://erudite-5ea2b.firebaseio.com",
+    "project_id": "erudite-5ea2b",
+    "storage_bucket": "erudite-5ea2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757324206889:android:e777c0609e177535b5dd38",
+        "android_client_info": {
+          "package_name": "com.sahuayush.erudite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757324206889-sslidnr4h6scda0lf36rkgg0ufvqu0gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJBpGY4TBX4WrXFX6UqUG0CqLVmFoC1jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757324206889-sslidnr4h6scda0lf36rkgg0ufvqu0gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
