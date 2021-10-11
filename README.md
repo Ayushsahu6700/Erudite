@@ -1,6 +1,11 @@
 # erudite
 
 An Education Portal
+Sample Images:
+![image](https://user-images.githubusercontent.com/54814827/136837694-2ba16d32-36a5-4c65-a885-26832a551dfa.png)
+![image](https://user-images.githubusercontent.com/54814827/136837798-7b6d1fe5-71a4-40c2-9b19-64a9784fa9e7.png)
+
+
 
 ## Getting Started
 
